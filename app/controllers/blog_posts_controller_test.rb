@@ -1,0 +1,2 @@
+class BlogPostsControllerTest
+end
